@@ -108,3 +108,40 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhxa6eHBqtwX9zkO_NPmuDDLJwNlIR
 
 #EXTINF:-1,DEP• TYC SPORTS AR (HD) »1«
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tj8p2GF8bf8Z-WETwr5v-zn/m3u8
+
+#EXTINF:-1,ESPN 1 (ᴀʀɢ) ᶜˡᵃ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tgd0PmTCKvkrTVbLAw_cf58/m3u8
+#EXTINF:-1,ESPN 1 (ᴀʀɢ) ᵗᵛᵐ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Th6YcLLsBAXymwK0mnerK9t/m3u8
+#EXTINF:-1,ESPN 2 (ᴀʀɢ) ᵗᵛᵐ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tj7CWT3LHyDzrP3hV4GEbEE/m3u8
+#EXTINF:-1,ESPN 2 FHD (ᴀʀɢ) ᶜˡᵃʳ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tist57SqnU4ZtKE6yzcCmsF/m3u8
+#EXTINF:-1,ESPN 3 (ᴀʀɢ) ᵗᵛᵐ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1TjlVYvtHWRsatQRWJIA9n8k/m3u8
+#EXTINF:-1,ESPN 3 HD (ᴀʀɢ) ᶜˡᵃ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1TgddSjKjipbU9YdDkdxSgCH/m3u8
+#EXTINF:-1,ESPN Extra HD (ᴀʀɢ) ᶜˡᵃʳ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1TghSBDT0w8tKi2HGujOpAit/m3u8
+#EXTINF:-1,ESPN Premium (ᴀʀɢ) ᵗᵛᵐ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tgjidm9NRuf6WLeVEO7dFp0/m3u8
+#EXTINF:-1,ESPN Premium HD (ᴀʀɢ) ᶜˡᵃ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tj1NvS_VD3PsUk3ZOeIgYRe/m3u8
+#EXTINF:-1,DIRECTV SPORTS AR
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI0c27uu49mfNPOuza-e2U7r/m3u8
+#EXTINF:-1,DIRECTV SPORTS 2 AR
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI39Gwua5KtJ-N84Ry0FJ1s-/m3u8
+#EXTINF:-1,DIRECTV SPORTS CH
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI2NSGutzFVWvvILvWi66B5V/m3u8
+#EXTINF:-1,DIRECTV SPORTS EC
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI3zSM5XsmWdhHWcwobQIPES/m3u8
+#EXTINF:-1,DIRECTV SPORTS PLUS EC
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI3Rzz0OIvxGvoc6Syj3l0in/m3u8
+#EXTINF:-1,DIRECTV SPORTS CO
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI2nj9whpovA2cz-nhtS-uhT/m3u8
+#EXTINF:-1,DIRECTV SPORTS 2 CO
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI13kA8mwRfXDFaxpeM6iYlP/m3u8
+#EXTINF:-1,DIRECTV SPORTS URU
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI0WEk9Tx82XzZJIqo8-IZrs/m3u8
+#EXTINF:-1,DIRECTV Sports Per
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIkKT8a75BK_pCejEHX0bOf7zKuNkRSJkdhmQnV31jNg8/m3u8
