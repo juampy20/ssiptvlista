@@ -145,3 +145,46 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI13kA8mwR
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI0WEk9Tx82XzZJIqo8-IZrs/m3u8
 #EXTINF:-1,DIRECTV Sports Per
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIkKT8a75BK_pCejEHX0bOf7zKuNkRSJkdhmQnV31jNg8/m3u8
+
+
+#EXTINF:-1,HBO HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv4WF2awWSPB5EUXnnUthj2H/m3u8
+#EXTINF:-1,HBO HD Este (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7_7Q-u0O7mFZgkMvdvdP-u/m3u8
+#EXTINF:-1,HBO HD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv6YWbIo9HWpcVs3OYpP_OzE/m3u8
+#EXTINF:-1,HBO
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv6QONYK5uL5tp1ALYIku5iI/m3u8
+#EXTINF:-1,HBO 2 HD MX (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5s1Nt1lmBCKgW0EGp39taj/m3u8
+#EXTINF:-1,HBO 2 HD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv60_G88xsxkI3mOrj4S6SvT/m3u8
+#EXTINF:-1,HBO 2 HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv4dqIsjXH5DW6QQy_ccn4fA/m3u8
+#EXTINF:-1,HBO 2 HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7CSA-OXZQdsD8RfcNva2m5/m3u8
+#EXTINF:-1,HBO FAMILY
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7kZnJ5-buWsSLo-YxVWlIa/m3u8
+#EXTINF:-1,HBO FAMILY
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5ZNaK7nPIbnatlY4J4mgA8/m3u8
+#EXTINF:-1,HBO FAMILY HD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7KQpRvRLDKiTdkDecInxLX/m3u8
+#EXTINF:-1,HBO FAMILY FHD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5DL01hitiY_LwCsBnROq5z/m3u8
+#EXTINF:-1,HBO PLUS este HD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7TsGgV8HRfPvmbp8kTDT5T/m3u8
+#EXTINF:-1,HBO PLUS
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5LleZoo33R4xvSntIOjFWP/m3u8
+#EXTINF:-1,HBO PLUS HD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv59zF7UJBbdnVDNujFjAHZx/m3u8
+#EXTINF:-1,HBO PLUS HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv4PWdIGC1pIAUAAKGm0VAoO/m3u8
+#EXTINF:-1,HBO SIGNATURE FHD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv73bC6cOX6rloXydl5-H2ih/m3u8
+#EXTINF:-1,HBO SIGNATURE HD (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5NAssw-zgS9CYcVIyjjFH4/m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv6XNGpfecMk4OOVDTz4xdfg/m3u8
+
+
+
