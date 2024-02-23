@@ -74,13 +74,37 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIqpfzpeIVM5hLvEXyRwB0utXQCg1EB
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIqpfzpeIVM5hLvEXyRwB0ut57VV-tC5LhoUThFkRkGtO/m3u8
 
 
+#EXTINF:-1,FOX SPORTS 2 SUR SD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIpNcG6M9nU48HYb3MpEviYzBNAec8KIZ23h8gs73s_Jy/m3u8
+
+
+#EXTINF:-1,ESPN 1 SUR HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIl0nXxElqaWSymICmYJ4iqnZqvu-jg1o7CO6DkgDc0Zk/m3u8
+
+#EXTINF:-1,ESPN 2 SUR SD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInWqLdTnHx7kFg6IG4subjjLAVGzBUd7uk7UlcXuTMLu/m3u8
+
+#EXTINF:-1,ESPN 3 ARGENTINA HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIj3e7A017R14nDEheeYVGSgappXfb1A2Q5bOtDmjHnQX/m3u8
+#EXTINF:-1,ESPN 4 SUR HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIj3e7A017R14nDEheeYVGShsmS0VOB1WtZH1q2kBTksz/m3u8
 
 
 
+#EXTINF:-1,FOX SPORTS 1 ARGENTINA FULL HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIpNcG6M9nU48HYb3MpEviYyobsIpp02CEh9UoGWD7E8t/m3u8
 
+#EXTINF:-1,FOX SPORTS 2 SUR HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYItPp3-WA7DH-nR2eeQLlXQCXrxP89loF2rLrVbfAJRi5/m3u8
 
+#EXTINF:-1,FOX SPORTS 3 AR HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIl0nXxElqaWSymICmYJ4iqnX_mYhQzcD06x4uQju2w9c/m3u8
 
+#EXTINF:-1,ESPN PREMIUM FHD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuwGm2uXldswOT1qR8thS2uxzy5aFfzgLHe97q9Ync4o/m3u8
 
+#EXTINF:-1,TNT Sports HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhxa6eHBqtwX9zkO_NPmuDDLJwNlIRNLZt9mkd-8YcFf/m3u8
 
-
-
+#EXTINF:-1,DEP• TYC SPORTS AR (HD) »1«
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tj8p2GF8bf8Z-WETwr5v-zn/m3u8
