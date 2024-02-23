@@ -101,11 +101,12 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYItPp3-WA7DH-nR2eeQLlXQCXrxP89l
 #EXTINF:-1,FOX SPORTS 3 AR HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIl0nXxElqaWSymICmYJ4iqnX_mYhQzcD06x4uQju2w9c/m3u8
 
-#EXTINF:-1,ESPN PREMIUM FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuwGm2uXldswOT1qR8thS2uxzy5aFfzgLHe97q9Ync4o/m3u8
 
-#EXTINF:-1,TNT Sports HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhxa6eHBqtwX9zkO_NPmuDDLJwNlIRNLZt9mkd-8YcFf/m3u8
+#EXTINF:-1,TNT Sports
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhxa6eHBqtwX9zkO_NPmuDC1IYYk6BBd9xTA0NqFav6Z/m3u8
+
+#EXTINF:-1,ESPN Premium (ᴀʀɢ) ᵗᵛᵐ
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tgjidm9NRuf6WLeVEO7dFp0/m3u8
 
 #EXTINF:-1,DEP• TYC SPORTS AR (HD) »1«
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tj8p2GF8bf8Z-WETwr5v-zn/m3u8
