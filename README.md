@@ -186,5 +186,32 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5NAssw-z
 #EXTINF:-1,HBO SIGNATURE HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv6XNGpfecMk4OOVDTz4xdfg/m3u8
 
-
+#EXTINF:-1,Disney Channel HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekPEP3y82EWGQuGnpgpGL_Xz/m3u8
+#EXTINF:-1,Disney Channel HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekOHssWkgo7Ey1yx_XtC4RqA/m3u8
+#EXTINF:-1,Disney Junior HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekOHSR2FmQRcMqqUGSGk4GUd/m3u8
+#EXTINF:-1,Disney Junior
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekNx8JZcVgE6SSknJDrY5bfJ/m3u8
+#EXTINF:-1,TeenNick HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekPol2-xL76G-ZOXGP9Nx6HH/m3u8
+#EXTINF:-1,TeenNick
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekOJx3_m-wpVpioK0nsh5KcL/m3u8
+#EXTINF:-1,Nick Jr HD
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekP1M9BJbaOP4U_7rG_FdQGn/m3u8
+#EXTINF:-1,Nick Jr
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekNlog6qwIMf377UfeQQEiJ5/m3u8
+#EXTINF:-1,Nick
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekN9qVNZROIJWL9uYzOMEXjZ/m3u8
+#EXTINF:-1,Nicktoons
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekM3w5xKSC1aKmkc53fjB60f/m3u8
+#EXTINF:-1,Tooncast HD (MX)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrth115xqDFPYtT_ZopxekM30yenBKUn0O0ED8iTcJcm/m3u8
+#EXTINF:-1,PAKAPAKA
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIrL9kUQte5AqpLYYvlnN6svklCd_thTL8lyK7zxjuk-Z/m3u8
+#EXTINF:-1,SEMILLITAS
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIqxXwU079e2rQO8Tff3PFAfEhD4SPZEBh-vziQiLSg41/m3u8
+#EXTINF:-1,CARTOONITO
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIqxXwU079e2rQO8Tff3PFAddWIJFcSCGEdQ_YDuOuWbI/m3u8
 
