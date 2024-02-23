@@ -1,8 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1,ARG: C5N FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuUI8OGNbNlG1YU1TCWRhenZ/m3u8
+
 #EXTINF:-1,ARG: A24 HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuX_UnRO8pGU21ovIEUcrd3q/m3u8
 #EXTINF:-1,ARG: A24 HD OP2
@@ -13,12 +12,10 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVFSDQb9H
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuWjho4JSX-9shzivC-Q6_P5/m3u8
 #EXTINF:-1,ARG: Television Publica HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVPUaUrUJpHwr5vCWmrn2Pn/m3u8
-#EXTINF:-1,ARG: Television Publica FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuWuAqys6js_eorXQpzCWhRD/m3u8
+
 #EXTINF:-1,ARG: El Nueve HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuXZy-O11Gca9uHT7RDpsYnD/m3u8
-#EXTINF:-1,ARG: El Nueve FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiClVMSJt5nhLB4EX8u-P8G9la4BCRyLGriDllCJSKHE/m3u8
+
 #EXTINF:-1,ARG: Telefe HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiClVMSJt5nhLB4EX8u-P8GjSOEZ6dUKgHYpi61Np-sy/m3u8
 #EXTINF:-1,ARG: Telefe HD (E)
@@ -33,8 +30,7 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2wJmZCPEg
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2wJG8xzyXg0tRWbhKJerjPt/m3u8
 #EXTINF:-1,ARG: TN HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2xXzEmqVZJ7KEiXFGUIB339/m3u8
-#EXTINF:-1,ARG: TN FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2wyL9kUUH8RRjNjATSGeFpM/m3u8
+
 #EXTINF:-1,ARG: 26 TV HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2xf2caC2d8Q9xzHS-wiaVDE/m3u8
 #EXTINF:-1,ARG: Volver SD
@@ -55,18 +51,15 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuRcEFWB9VgG4yYjei1P-8FHTajnLI
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuRcEFWB9VgG4yYjei1P-8H3EOS8ZiOyRVhWslVKo0_v/m3u8
 #EXTINF:-1,ARG: Magazine SD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuRcEFWB9VgG4yYjei1P-8GZaKIST807avRT6RwHnG4l/m3u8
-#EXTINF:-1,ARG: Magazine HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuRcEFWB9VgG4yYjei1P-8Fs-Qr1zBJKqV4h8ya-t25-/m3u8
+
 #EXTINF:-1,ARG: Argentisima SD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuRcEFWB9VgG4yYjei1P-8EzSmZzd0Uf3BDz3K97cvKb/m3u8
-#EXTINF:-1,ARG: Argentisima HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokUs_ypsRzSVsAT_kH0eigeA/m3u8
+
 #EXTINF:-1,ARG: Litus
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhAZsFkajnCO5Izj2tkaokVSfRZeAU6PFIhCg0hY13ls/m3u8
 #EXTINF:-1,ARG: LN+
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuwGm2uXldswOT1qR8thS2v_DZwOF-fr5xIluqAapN_t/m3u8
-#EXTINF:-1,ARG: TNT SPORTS FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIuwGm2uXldswOT1qR8thS2s7XP1i_2r1PSzXXZTzk1Xy/m3u8
+
 #EXTINF:-1,ARG: TYC SPORTS
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIpGkoWiiI_A2V2dV5IaWMudZsKzn49wV00kZQIY4PM1j/m3u8
 #EXTINF:-1,ARG: TYC SPORTS INTERNACIONAL
@@ -91,9 +84,8 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIj3e7A017R14nDEheeYVGSgappXfb1
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIj3e7A017R14nDEheeYVGShsmS0VOB1WtZH1q2kBTksz/m3u8
 
 
-
-#EXTINF:-1,FOX SPORTS 1 ARGENTINA FULL HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIpNcG6M9nU48HYb3MpEviYyobsIpp02CEh9UoGWD7E8t/m3u8
+#EXTINF:-1,Fox Sports
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tjd7cK7gs2e2K-iEBKvqb7x/m3u8
 
 #EXTINF:-1,FOX SPORTS 2 SUR HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYItPp3-WA7DH-nR2eeQLlXQCXrxP89loF2rLrVbfAJRi5/m3u8
@@ -148,7 +140,8 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIsO92XeYob0LvDWVdTWGEI0WEk9Tx8
 #EXTINF:-1,DIRECTV Sports Per
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIkKT8a75BK_pCejEHX0bOf7zKuNkRSJkdhmQnV31jNg8/m3u8
 
-
+#EXTINF:-1,CINECANAL ARG (DTV)
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv4_bTTuvAwtY96dWBtrF2pP/m3u8
 #EXTINF:-1,HBO HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv4WF2awWSPB5EUXnnUthj2H/m3u8
 #EXTINF:-1,HBO HD Este (DTV)
@@ -171,8 +164,7 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7kZnJ5-b
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5ZNaK7nPIbnatlY4J4mgA8/m3u8
 #EXTINF:-1,HBO FAMILY HD (DTV)
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7KQpRvRLDKiTdkDecInxLX/m3u8
-#EXTINF:-1,HBO FAMILY FHD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5DL01hitiY_LwCsBnROq5z/m3u8
+
 #EXTINF:-1,HBO PLUS este HD (DTV)
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv7TsGgV8HRfPvmbp8kTDT5T/m3u8
 #EXTINF:-1,HBO PLUS
@@ -181,8 +173,7 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5LleZoo3
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv59zF7UJBbdnVDNujFjAHZx/m3u8
 #EXTINF:-1,HBO PLUS HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv4PWdIGC1pIAUAAKGm0VAoO/m3u8
-#EXTINF:-1,HBO SIGNATURE FHD (DTV)
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv73bC6cOX6rloXydl5-H2ih/m3u8
+
 #EXTINF:-1,HBO SIGNATURE HD (DTV)
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYInBHfAd7yGsKQ-CbiDJ0uv5NAssw-zgS9CYcVIyjjFH4/m3u8
 #EXTINF:-1,HBO SIGNATURE HD
