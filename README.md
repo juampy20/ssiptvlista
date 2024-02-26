@@ -95,7 +95,8 @@ http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIl0nXxElqaWSymICmYJ4iqnX_mYhQz
 
 
 #EXTINF:-1,TNT Sports
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhxa6eHBqtwX9zkO_NPmuDC1IYYk6BBd9xTA0NqFav6Z/m3u8
+http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhxa6eHBqtwX9zkO_NPmuDDLJwNlIRNLZt9mkd-8YcFf/m3u8
+
 
 #EXTINF:-1,ESPN Premium (ᴀʀɢ) ᵗᵛᵐ
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiahMq14ey1rbW2SOx1X1Tgjidm9NRuf6WLeVEO7dFp0/m3u8
