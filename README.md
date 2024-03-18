@@ -4,32 +4,34 @@
 
 #EXTINF:-1,ARG: A24 HD
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2073.m3u8
-#EXTINF:-1,ARG: A24 HD OP2
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuUtwkenNBVj2Eb0f_7agzAA/m3u8
+
 #EXTINF:-1,ARG: America TV HD OP1
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVFSDQb9HarcvBH18-akyet/m3u8
-#EXTINF:-1,ARG: America TV FHD OP2
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuWjho4JSX-9shzivC-Q6_P5/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9476.m3u8
+
 #EXTINF:-1,ARG: Television Publica HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuVPUaUrUJpHwr5vCWmrn2Pn/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2077.m3u8
 
 #EXTINF:-1,ARG: El Nueve HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuXZy-O11Gca9uHT7RDpsYnD/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2079.m3u8
+
 
 #EXTINF:-1,ARG: Telefe HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiClVMSJt5nhLB4EX8u-P8GjSOEZ6dUKgHYpi61Np-sy/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2083.m3u8
 #EXTINF:-1,ARG: Telefe HD (E)
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiClVMSJt5nhLB4EX8u-P8GR17_-tMnY6EqHV3iNGETs/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2084.m3u8
 #EXTINF:-1,ARG: El trece HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiClVMSJt5nhLB4EX8u-P8GsnBdjZZm3n5oKLxT1bblv/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2086.m3u8
 #EXTINF:-1,ARG: El trece HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2wGEVns4xZY-J3ZFjf7mrEN/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2090.m3u8
+
 #EXTINF:-1,ARG: Cronica TV SD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2wJmZCPEgvcvNqlS7QO6Pjq/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2091.m3u8
 #EXTINF:-1,ARG: Cronica TV HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2wJG8xzyXg0tRWbhKJerjPt/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2092.m3u8
 #EXTINF:-1,ARG: TN HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2xXzEmqVZJ7KEiXFGUIB339/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2093.m3u8
+
+
 
 #EXTINF:-1,ARG: 26 TV HD
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIiNzpXytkztA4eL9iAcWN2xf2caC2d8Q9xzHS-wiaVDE/m3u8
