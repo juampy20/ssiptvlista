@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1,ARG: A24 HD
-http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuX_UnRO8pGU21ovIEUcrd3q/m3u8
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2073.m3u8
 #EXTINF:-1,ARG: A24 HD OP2
 http://totalplay.site:80/play/2s_5gqdc6YWcgdqSHMoYIhs0DMjZofhGN_ZAOxgtuuUtwkenNBVj2Eb0f_7agzAA/m3u8
 #EXTINF:-1,ARG: America TV HD OP1
