@@ -210,3 +210,9 @@ http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46178.m3u8
 #EXTINF:-1,Space HD (DTV)
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46179.m3u8
 
+#EXTINF:-1,AXN MOVIE HD
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327805.m3u8
+
+#EXTINF:-1,AXN HD
+http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327808.m3u8
+
