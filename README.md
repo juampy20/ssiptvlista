@@ -5,10 +5,10 @@
 
 
 #EXTINF:-1,ARG: America TV HD OP1
-http://totalplay.site:80/omarschedan1940 /nffkuFw4hv/9476.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9476.m3u8
 
 #EXTINF:-1,ARG: Television Publica HD
-http://totalplay.site:80/omarschedan1940 /nffkuFw4hv/2077.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2077.m3u8
 
 #EXTINF:-1,ARG: El Nueve HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2079.m3u8
@@ -201,51 +201,51 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46220.m3u8
 
 
 #EXTINF:-1,TNT HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46239.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46239.m3u8
 #EXTINF:-1,TNT SERIES HD (DTV)
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46240.m3u8
 
 #EXTINF:-1,SPACE HD MX (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46178.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46178.m3u8
 #EXTINF:-1,Space HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46179.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46179.m3u8
 
 #EXTINF:-1,AXN MOVIE HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327805.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327805.m3u8
 
 #EXTINF:-1,AXN HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327808.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327808.m3u8
 #EXTINF:-1,BOM CINE
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327826.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327826.m3u8
 
 #EXTINF:-1,COSMOS HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327829.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327829.m3u8
 
 #EXTINF:-1,SYFY HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327831.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327831.m3u8
 
 #EXTINF:-1,AMC SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327833.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327833.m3u8
 #EXTINF:-1,AMC HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327835.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327835.m3u8
 
 #EXTINF:-1,AMC BREAK HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327837.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327837.m3u8
 
 #EXTINF:-1,AMC CRIME SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327839.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327839.m3u8
 
 #EXTINF:-1,DARK HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327819.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327819.m3u8
 
 
 #EXTINF:-1,SOMOS HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327823.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327823.m3u8
 #EXTINF:-1,XTRM HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327828.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327828.m3u8
 
-#EXTINF:-1,COMEDY CENTRAL HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/327804.m3u8
+
+
 
 
 
