@@ -2,8 +2,6 @@
 
 
 
-
-
 #EXTINF:-1,ARG: America TV HD OP1
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9476.m3u8
 
