@@ -33,29 +33,29 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2093.m3u8
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2073.m3u8
 
 #EXTINF:-1,ARG: 26 TV HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2096.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2096.m3u8
 
 #EXTINF:-1,ARG: Volver SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2097.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2097.m3u8
 #EXTINF:-1,ARG: 13 Max
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2098.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2098.m3u8
 #EXTINF:-1,ARG: 5RTV Santa Fe
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2100.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2100.m3u8
 #EXTINF:-1,NET TV
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2101.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2101.m3u8
 #EXTINF:-1,ARG: Canal 4 Jujuy
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2103.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2103.m3u8
 #EXTINF:-1,ARG: Canal 4 Posadas
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2104.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2104.m3u8
 #EXTINF:-1,ARG: RTN Neuquen
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2112.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2112.m3u8
 #EXTINF:-1,ARG: Telemax
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2113.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2113.m3u8
 #EXTINF:-1,ARG: Magazine SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2116.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2116.m3u8
 
 #EXTINF:-1,ARG: Argentisima SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2119.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2119.m3u8
 
 
 
