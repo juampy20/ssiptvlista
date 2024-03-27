@@ -97,41 +97,41 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417222.m3u8
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417221.m3u8
 
 #EXTINF:-1,ESPN 3 (ᴀʀɢ) ᵗᵛᵐ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417219.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417219.m3u8
 #EXTINF:-1,ESPN 3 HD (ᴀʀɢ) ᶜˡᵃ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417218.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417218.m3u8
 #EXTINF:-1,ESPN 4 HD (ᴀʀɢ) ᶜˡᵃʳ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417217.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417217.m3u8
 #EXTINF:-1,ESPN Premium (ᴀʀɢ) ᵗᵛᵐ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417216.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417216.m3u8
 #EXTINF:-1,ESPN Premium HD (ᴀʀɢ) ᶜˡᵃ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417215.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417215.m3u8
 
 
 #EXTINF:-1,TNT Sports
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/79139.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/79139.m3u8
 #EXTINF:-1,TNT Sports HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/79140.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/79140.m3u8
 
 
 #EXTINF:-1,DIRECTV SPORTS AR
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69547.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69547.m3u8
 #EXTINF:-1,DIRECTV SPORTS 2 AR
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69549.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69549.m3u8
 #EXTINF:-1,DIRECTV SPORTS CH
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69552.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69552.m3u8
 #EXTINF:-1,DIRECTV SPORTS EC
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69557.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69557.m3u8
 #EXTINF:-1,DIRECTV SPORTS PLUS EC
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69559.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69559.m3u8
 #EXTINF:-1,DIRECTV SPORTS CO
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69567.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69567.m3u8
 #EXTINF:-1,DIRECTV SPORTS 2 CO
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69568.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69568.m3u8
 #EXTINF:-1,DIRECTV SPORTS URU
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/69570.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69570.m3u8
 #EXTINF:-1,DIRECTV Sports Per
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/151274.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/151274.m3u8
 
 
 #EXTINF:-1,IL: Disney Channel
