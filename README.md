@@ -43,16 +43,16 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2101.ts
 #EXTINF:-1,ARG: Canal 4 Jujuy
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2103.ts
 #EXTINF:-1,ARG: Canal 4 Posadas
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2104.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2104.ts
 #EXTINF:-1,ARG: RTN Neuquen
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2112.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2112.ts
 #EXTINF:-1,ARG: Telemax
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2113.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2113.ts
 #EXTINF:-1,ARG: Magazine SD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2116.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2116.ts
 
 #EXTINF:-1,ARG: Argentisima SD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2119.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2119.ts
 
 
 
