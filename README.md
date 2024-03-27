@@ -21,27 +21,27 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2086.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2090.ts
 
 #EXTINF:-1,ARG: Cronica TV SD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2091.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2091.ts
 #EXTINF:-1,ARG: Cronica TV HD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2092.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2092.ts
 #EXTINF:-1,ARG: TN HD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2093.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2093.ts
 #EXTINF:-1,ARG: A24 HD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2073.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2073.ts
 
 #EXTINF:-1,ARG: 26 TV HD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2096.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2096.ts
 
 #EXTINF:-1,ARG: Volver SD
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2097.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2097.ts
 #EXTINF:-1,ARG: 13 Max
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2098.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2098.ts
 #EXTINF:-1,ARG: 5RTV Santa Fe
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2100.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2100.ts
 #EXTINF:-1,NET TV
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2101.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2101.ts
 #EXTINF:-1,ARG: Canal 4 Jujuy
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2103.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2103.ts
 #EXTINF:-1,ARG: Canal 4 Posadas
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2104.m3u8
 #EXTINF:-1,ARG: RTN Neuquen
