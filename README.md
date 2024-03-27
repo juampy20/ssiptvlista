@@ -5,32 +5,32 @@
 
 
 #EXTINF:-1,ARG: America TV HD OP1
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9476.m3u8
+http://totalplay.site:80/omarschedan1940 /nffkuFw4hv/9476.m3u8
 
 #EXTINF:-1,ARG: Television Publica HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2077.m3u8
+http://totalplay.site:80/omarschedan1940 /nffkuFw4hv/2077.m3u8
 
 #EXTINF:-1,ARG: El Nueve HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2079.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2079.m3u8
 
 
 #EXTINF:-1,ARG: Telefe HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2083.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2083.m3u8
 #EXTINF:-1,ARG: Telefe HD (E)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2084.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2084.m3u8
 #EXTINF:-1,ARG: El trece HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2086.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2086.m3u8
 #EXTINF:-1,ARG: El trece HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2090.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2090.m3u8
 
 #EXTINF:-1,ARG: Cronica TV SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2091.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2091.m3u8
 #EXTINF:-1,ARG: Cronica TV HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2092.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2092.m3u8
 #EXTINF:-1,ARG: TN HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2093.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2093.m3u8
 #EXTINF:-1,ARG: A24 HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2073.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2073.m3u8
 
 #EXTINF:-1,ARG: 26 TV HD
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/2096.m3u8
