@@ -135,69 +135,69 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/151274.m3u8
 
 
 #EXTINF:-1,IL: Disney Channel
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/504957.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/504957.m3u8
 #EXTINF:-1,IL: Disney Junior
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/504958.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/504958.m3u8
 #EXTINF:-1,BR :TOONCAST  | H.264 480p
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/195631.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/195631.m3u8
 
 #EXTINF:-1,Paka Paka
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/505293.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/505293.m3u8
 #EXTINF:-1,Cartoonito
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/11919.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/11919.m3u8
 
 #EXTINF:-1,Cartoon Network HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/11920.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/11920.m3u8
 
 #EXTINF:-1,Cartoon Network HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/11922.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/11922.m3u8
 
 
 #EXTINF:-1,HBO HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46144.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46144.m3u8
 #EXTINF:-1,HBO HD Este (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46145.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46145.m3u8
 #EXTINF:-1,HBO HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46146.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46146.m3u8
 #EXTINF:-1,HBO
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46147.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46147.m3u8
 #EXTINF:-1,HBO 2 HD MX (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46148.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46148.m3u8
 #EXTINF:-1,HBO 2 HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46149.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46149.m3u8
 #EXTINF:-1,HBO 2 HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46150.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46150.m3u8
 #EXTINF:-1,HBO 2 HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46151.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46151.m3u8
 #EXTINF:-1,HBO FAMILY
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46152.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46152.m3u8
 #EXTINF:-1,HBO FAMILY
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46153.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46153.m3u8
 #EXTINF:-1,HBO FAMILY HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46154.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46154.m3u8
 
 #EXTINF:-1,HBO PLUS este HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46156.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46156.m3u8
 #EXTINF:-1,HBO PLUS
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46157.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46157.m3u8
 #EXTINF:-1,HBO PLUS HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46158.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46158.m3u8
 #EXTINF:-1,HBO PLUS HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46159.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46159.m3u8
 
 #EXTINF:-1,HBO SIGNATURE HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46162.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46162.m3u8
 #EXTINF:-1,HBO SIGNATURE HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46163.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46163.m3u8
 
 #EXTINF:-1,STUDIO UNIVERSAL HD (DTV)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46217.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46217.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46218.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46218.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46219.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46219.m3u8
 #EXTINF:-1,STUDIO UNIVERSAL
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46220.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46220.m3u8
 
 
 #EXTINF:-1,TNT HD
