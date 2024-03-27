@@ -60,41 +60,41 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2119.m3u8
 
 
 #EXTINF:-1,ARG: TYC SPORTS
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/23061.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/23061.m3u8
 #EXTINF:-1,ARG: TYC SPORTS INTERNACIONAL
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/167451.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167451.m3u8
 #EXTINF:-1,ARG: TYC SPORTS LOCAL
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/167452.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167452.m3u8
 
 
 #EXTINF:-1,FOX SPORTS SUR 2 SD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9099.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9099.m3u8
 #EXTINF:-1,FOX SPORTS 2 SUR HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9100.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9100.m3u8
 
 #EXTINF:-1,FOX SPORTS 2 MEXICO HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9102.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9102.m3u8
 #EXTINF:-1,FOX SPORTS 2 MEXICO HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9103.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9103.m3u8
 
 #EXTINF:-1,FOX SPORTS 2 ARG HD (D)
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9104.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9104.m3u8
 #EXTINF:-1,FOX SPORTS 2 ARGENTINA HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9105.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9105.m3u8
 
 #EXTINF:-1,FOX SPORTS 3 ARGENTINA HD
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/9110.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9110.m3u8
 
 #EXTINF:-1,Fox Sports
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417240.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417240.m3u8
 
 
 #EXTINF:-1,ESPN 1 (ᴀʀɢ) ᶜˡᵃ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417223.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417223.m3u8
 #EXTINF:-1,ESPN 1 (ᴀʀɢ) ᵗᵛᵐ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417222.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417222.m3u8
 #EXTINF:-1,ESPN 2 (ᴀʀɢ) ᵗᵛᵐ
-http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417221.m3u8
+http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417221.m3u8
 
 #EXTINF:-1,ESPN 3 (ᴀʀɢ) ᵗᵛᵐ
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/417219.m3u8
