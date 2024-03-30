@@ -65,95 +65,94 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167451.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167452.ts
 
 
-#EXTINF:-1,FOX SPORTS SUR 2 
+#EXTINF:-1,FOX SPORTS 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9099.ts
-#EXTINF:-1,FOX SPORTS 2 SUR
+#EXTINF:-1,FOX SPORTS 2
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9100.ts
 
-#EXTINF:-1 , FOX SPORTS mx
+#EXTINF:-1 , FOX SPORTS 
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 , FOX SPORTS 2 mx
+#EXTINF:-1 , FOX SPORTS 2 
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 
-#EXTINF:-1,FOX SPORTS 2 MEXICO 
+#EXTINF:-1,FOX SPORTS 2  
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9102.ts
-#EXTINF:-1,FOX SPORTS 2 MEXICO 
+#EXTINF:-1,FOX SPORTS 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9103.ts
 
-#EXTINF:-1,FOX SPORTS 2 ARG HD 
+#EXTINF:-1,FOX SPORTS 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9104.ts
-#EXTINF:-1,FOX SPORTS 2 ARGENTINA
+#EXTINF:-1,FOX SPORTS 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9105.ts
 
-#EXTINF:-1,FOX SPORTS 3 ARGENTINA 
+#EXTINF:-1,FOX SPORTS 3 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9110.ts
 
 #EXTINF:-1,Fox Sports
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417240.ts
 
-#EXTINF:-1  , ESPN mx
+#EXTINF:-1  , ESPN 
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
 
-#EXTINF:-1 , ESPN 2 mx
+#EXTINF:-1 , ESPN 2 
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 
 
-#EXTINF:-1,ESPN 1 
+#EXTINF:-1,ESPN 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417223.ts
-#EXTINF:-1,ESPN 1 
+#EXTINF:-1,ESPN 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417222.ts
 #EXTINF:-1,ESPN 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417221.ts
-#EXTINF:-1 , ESPN 3 mx
+#EXTINF:-1 , ESPN 3 
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1,ESPN 3 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417219.ts
 #EXTINF:-1,ESPN 3 HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417218.ts
-#EXTINF:-1,ESPN 4 HD 
+#EXTINF:-1,ESPN 4 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417217.ts
 #EXTINF:-1,ESPN Premium 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417216.ts
-#EXTINF:-1,ESPN Premium HD 
+#EXTINF:-1,ESPN Premium  
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417215.ts
 
 
 #EXTINF:-1,TNT Sports
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/79139.ts
-#EXTINF:-1,TNT Sports HD
+#EXTINF:-1,TNT Sports 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/79140.ts
 
 
-#EXTINF:-1,DIRECTV SPORTS AR
+#EXTINF:-1,DIRECTV SPORTS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69547.ts
-#EXTINF:-1,DIRECTV SPORTS 2 AR
+#EXTINF:-1,DIRECTV SPORTS 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69549.ts
-#EXTINF:-1,DIRECTV SPORTS CH
+#EXTINF:-1,DIRECTV SPORTS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69552.ts
-#EXTINF:-1,DIRECTV SPORTS EC
+#EXTINF:-1,DIRECTV SPORTS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69557.ts
-#EXTINF:-1,DIRECTV SPORTS PLUS EC
+#EXTINF:-1,DIRECTV SPORTS PLUS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69559.ts
-#EXTINF:-1,DIRECTV SPORTS CO
+#EXTINF:-1,DIRECTV SPORTS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69567.ts
-#EXTINF:-1,DIRECTV SPORTS 2 CO
+#EXTINF:-1,DIRECTV SPORTS 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69568.ts
-#EXTINF:-1,DIRECTV SPORTS URU
+#EXTINF:-1,DIRECTV SPORTS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69570.ts
-#EXTINF:-1,DIRECTV Sports Per
+#EXTINF:-1,DIRECTV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/151274.ts
 
 
 #EXTINF:-1 ,LIGUE 1
 http://168.228.194.33:48001/play/a004/index.m3u8
 
-#EXTINF:-1,IL: Disney Channel
+#EXTINF:-1, Disney Channel
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/504957.ts
-#EXTINF:-1,IL: Disney Junior
+#EXTINF:-1, Disney Junior
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/504958.ts
-#EXTINF:-1,BR :TOONCAST  | H.264 480p
-http://totalplay.site:80/omarschedan1940/nffkuFw4hv/195631.ts
+
 
 #EXTINF:-1,Paka Paka
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/505293.ts
@@ -187,16 +186,16 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46151.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46152.ts
 #EXTINF:-1,HBO FAMILY
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46153.ts
-#EXTINF:-1,HBO FAMILY HD 
+#EXTINF:-1,HBO FAMILY 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46154.ts
 
-#EXTINF:-1,HBO PLUS este HD 
+#EXTINF:-1,HBO PLUS  
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46156.ts
 #EXTINF:-1,HBO PLUS
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46157.ts
-#EXTINF:-1,HBO PLUS HD 
+#EXTINF:-1,HBO PLUS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46158.ts
-#EXTINF:-1,HBO PLUS HD
+#EXTINF:-1,HBO PLUS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46159.ts
 
 #EXTINF:-1,HBO SIGNATURE HD 
@@ -214,12 +213,12 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46219.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46220.ts
 
 
-#EXTINF:-1,TNT HD
+#EXTINF:-1,TNT 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46239.ts
-#EXTINF:-1,TNT SERIES HD 
+#EXTINF:-1,TNT SERIES 
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46240.ts
 
-#EXTINF:-1,SPACE HD MX 
+#EXTINF:-1,SPACE 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46178.ts
 #EXTINF:-1,Space HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46179.ts
