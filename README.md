@@ -2,37 +2,37 @@
 
 
 
-#EXTINF:-1,ARG: America TV HD OP1
+#EXTINF:-1,ARG: America TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9476.ts
 
-#EXTINF:-1,ARG: Television Publica HD
+#EXTINF:-1,ARG: Television Publica
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2077.ts
 
-#EXTINF:-1,ARG: El Nueve HD
+#EXTINF:-1,ARG: El Nueve 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2079.ts
 
-#EXTINF:-1,ARG: Telefe HD
+#EXTINF:-1,ARG: Telefe 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2083.ts
-#EXTINF:-1,ARG: Telefe HD (E)
+#EXTINF:-1,ARG: Telefe 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2084.ts
-#EXTINF:-1,ARG: El trece HD
+#EXTINF:-1,ARG: El trece 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2086.ts
-#EXTINF:-1,ARG: El trece HD
+#EXTINF:-1,ARG: El trece 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2090.ts
 
-#EXTINF:-1,ARG: Cronica TV SD
+#EXTINF:-1,ARG: Cronica TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2091.ts
-#EXTINF:-1,ARG: Cronica TV HD
+#EXTINF:-1,ARG: Cronica TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2092.ts
-#EXTINF:-1,ARG: TN HD
+#EXTINF:-1,ARG: TN 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2093.ts
-#EXTINF:-1,ARG: A24 HD
+#EXTINF:-1,ARG: A24 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2073.ts
 
-#EXTINF:-1,ARG: 26 TV HD
+#EXTINF:-1,ARG: 26 TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2096.ts
 
-#EXTINF:-1,ARG: Volver SD
+#EXTINF:-1,ARG: Volver 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2097.ts
 #EXTINF:-1,ARG: 13 Max
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2098.ts
@@ -48,60 +48,60 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2104.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2112.ts
 #EXTINF:-1,ARG: Telemax
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2113.ts
-#EXTINF:-1,ARG: Magazine SD
+#EXTINF:-1,ARG: Magazine 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2116.ts
 
-#EXTINF:-1,ARG: Argentisima SD
+#EXTINF:-1,ARG: Argentisima 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2119.ts
 
 
 
 #EXTINF:-1,ARG: TYC SPORTS
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/23061.ts
-#EXTINF:-1,ARG: TYC SPORTS INTERNACIONAL
+#EXTINF:-1,ARG: TYC SPORTS INTERN
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167451.ts
 #EXTINF:-1,ARG: TYC SPORTS LOCAL
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167452.ts
 
 
-#EXTINF:-1,FOX SPORTS SUR 2 SD
+#EXTINF:-1,FOX SPORTS SUR 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9099.ts
-#EXTINF:-1,FOX SPORTS 2 SUR HD
+#EXTINF:-1,FOX SPORTS 2 SUR
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9100.ts
 
-#EXTINF:-1,FOX SPORTS 2 MEXICO HD
+#EXTINF:-1,FOX SPORTS 2 MEXICO 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9102.ts
-#EXTINF:-1,FOX SPORTS 2 MEXICO HD
+#EXTINF:-1,FOX SPORTS 2 MEXICO 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9103.ts
 
-#EXTINF:-1,FOX SPORTS 2 ARG HD (D)
+#EXTINF:-1,FOX SPORTS 2 ARG HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9104.ts
-#EXTINF:-1,FOX SPORTS 2 ARGENTINA HD
+#EXTINF:-1,FOX SPORTS 2 ARGENTINA
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9105.ts
 
-#EXTINF:-1,FOX SPORTS 3 ARGENTINA HD
+#EXTINF:-1,FOX SPORTS 3 ARGENTINA 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9110.ts
 
 #EXTINF:-1,Fox Sports
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417240.ts
 
 
-#EXTINF:-1,ESPN 1 (ᴀʀɢ) ᶜˡᵃ
+#EXTINF:-1,ESPN 1 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417223.ts
-#EXTINF:-1,ESPN 1 (ᴀʀɢ) ᵗᵛᵐ
+#EXTINF:-1,ESPN 1 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417222.ts
-#EXTINF:-1,ESPN 2 (ᴀʀɢ) ᵗᵛᵐ
+#EXTINF:-1,ESPN 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417221.ts
 
-#EXTINF:-1,ESPN 3 (ᴀʀɢ) ᵗᵛᵐ
+#EXTINF:-1,ESPN 3 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417219.ts
-#EXTINF:-1,ESPN 3 HD (ᴀʀɢ) ᶜˡᵃ
+#EXTINF:-1,ESPN 3 HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417218.ts
-#EXTINF:-1,ESPN 4 HD (ᴀʀɢ) ᶜˡᵃʳ
+#EXTINF:-1,ESPN 4 HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417217.ts
-#EXTINF:-1,ESPN Premium (ᴀʀɢ) ᵗᵛᵐ
+#EXTINF:-1,ESPN Premium 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417216.ts
-#EXTINF:-1,ESPN Premium HD (ᴀʀɢ) ᶜˡᵃ
+#EXTINF:-1,ESPN Premium HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417215.ts
 
 
@@ -143,24 +143,24 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/505293.ts
 #EXTINF:-1,Cartoonito
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/11919.ts
 
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1,Cartoon Network 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/11920.ts
 
-#EXTINF:-1,Cartoon Network HD
+#EXTINF:-1,Cartoon Network 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/11922.ts
 
 
 #EXTINF:-1,HBO HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46144.ts
-#EXTINF:-1,HBO HD Este (DTV)
+#EXTINF:-1,HBO HD Este 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46145.ts
-#EXTINF:-1,HBO HD (DTV)
+#EXTINF:-1,HBO HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46146.ts
 #EXTINF:-1,HBO
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46147.ts
-#EXTINF:-1,HBO 2 HD MX (DTV)
+#EXTINF:-1,HBO 2 HD MX 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46148.ts
-#EXTINF:-1,HBO 2 HD (DTV)
+#EXTINF:-1,HBO 2 HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46149.ts
 #EXTINF:-1,HBO 2 HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46150.ts
@@ -170,24 +170,24 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46151.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46152.ts
 #EXTINF:-1,HBO FAMILY
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46153.ts
-#EXTINF:-1,HBO FAMILY HD (DTV)
+#EXTINF:-1,HBO FAMILY HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46154.ts
 
-#EXTINF:-1,HBO PLUS este HD (DTV)
+#EXTINF:-1,HBO PLUS este HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46156.ts
 #EXTINF:-1,HBO PLUS
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46157.ts
-#EXTINF:-1,HBO PLUS HD (DTV)
+#EXTINF:-1,HBO PLUS HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46158.ts
 #EXTINF:-1,HBO PLUS HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46159.ts
 
-#EXTINF:-1,HBO SIGNATURE HD (DTV)
+#EXTINF:-1,HBO SIGNATURE HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46162.ts
 #EXTINF:-1,HBO SIGNATURE HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46163.ts
 
-#EXTINF:-1,STUDIO UNIVERSAL HD (DTV)
+#EXTINF:-1,STUDIO UNIVERSAL HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46217.ts
 #EXTINF:-1,STUDIO UNIVERSAL HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46218.ts
@@ -199,46 +199,46 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46220.ts
 
 #EXTINF:-1,TNT HD
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46239.ts
-#EXTINF:-1,TNT SERIES HD (DTV)
+#EXTINF:-1,TNT SERIES HD 
 http://totalplay.site:80/hzuArMCpny/nffkuFw4hv/46240.ts
 
-#EXTINF:-1,SPACE HD MX (DTV)
+#EXTINF:-1,SPACE HD MX 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46178.ts
-#EXTINF:-1,Space HD (DTV)
+#EXTINF:-1,Space HD 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/46179.ts
 
-#EXTINF:-1,AXN MOVIE HD
+#EXTINF:-1,AXN MOVIE 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327805.ts
 
-#EXTINF:-1,AXN HD
+#EXTINF:-1,AXN 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327808.ts
 #EXTINF:-1,BOM CINE
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327826.ts
 
-#EXTINF:-1,COSMOS HD
+#EXTINF:-1,COSMOS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327829.ts
 
-#EXTINF:-1,SYFY HD
+#EXTINF:-1,SYFY 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327831.ts
 
-#EXTINF:-1,AMC SD
+#EXTINF:-1,AMC 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327833.ts
-#EXTINF:-1,AMC HD
+#EXTINF:-1,AMC 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327835.ts
 
-#EXTINF:-1,AMC BREAK HD
+#EXTINF:-1,AMC BREAK 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327837.ts
 
-#EXTINF:-1,AMC CRIME SD
+#EXTINF:-1,AMC CRIME 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327839.ts
 
-#EXTINF:-1,DARK HD
+#EXTINF:-1,DARK 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327819.ts
 
 
-#EXTINF:-1,SOMOS HD
+#EXTINF:-1,SOMOS 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327823.ts
-#EXTINF:-1,XTRM HD
+#EXTINF:-1,XTRM 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/327828.ts
 
 
