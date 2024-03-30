@@ -2,65 +2,66 @@
 
 
 
-#EXTINF:-1,ARG: America TV 
+#EXTINF:-1, America TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9476.ts
 
-#EXTINF:-1,ARG: Television Publica
+#EXTINF:-1, Television Publica
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2077.ts
 
-#EXTINF:-1,ARG: El Nueve 
+#EXTINF:-1, El Nueve 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2079.ts
 
-#EXTINF:-1,ARG: Telefe 
+#EXTINF:-1, Telefe 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2083.ts
-#EXTINF:-1,ARG: Telefe 
+#EXTINF:-1, Telefe 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2084.ts
-#EXTINF:-1,ARG: El trece 
+#EXTINF:-1, El trece 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2086.ts
-#EXTINF:-1,ARG: El trece 
+#EXTINF:-1, El trece 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2090.ts
 
-#EXTINF:-1,ARG: Cronica TV 
+#EXTINF:-1, Cronica TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2091.ts
-#EXTINF:-1,ARG: Cronica TV 
+#EXTINF:-1, Cronica TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2092.ts
-#EXTINF:-1,ARG: TN 
+#EXTINF:-1, TN 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2093.ts
-#EXTINF:-1,ARG: A24 
+#EXTINF:-1, A24 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2073.ts
 
-#EXTINF:-1,ARG: 26 TV 
+#EXTINF:-1, 26 TV 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2096.ts
 
-#EXTINF:-1,ARG: Volver 
+#EXTINF:-1, Volver 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2097.ts
-#EXTINF:-1,ARG: 13 Max
+#EXTINF:-1, 13 Max
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2098.ts
-#EXTINF:-1,ARG: 5RTV Santa Fe
+#EXTINF:-1, 5RTV Santa Fe
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2100.ts
 #EXTINF:-1,NET TV
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2101.ts
-#EXTINF:-1,ARG: Canal 4 Jujuy
+#EXTINF:-1, Canal 4 Jujuy
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2103.ts
-#EXTINF:-1,ARG: Canal 4 Posadas
+#EXTINF:-1, Canal 4 Posadas
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2104.ts
-#EXTINF:-1,ARG: RTN Neuquen
+#EXTINF:-1, RTN Neuquen
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2112.ts
-#EXTINF:-1,ARG: Telemax
+#EXTINF:-1, Telemax
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2113.ts
-#EXTINF:-1,ARG: Magazine 
+#EXTINF:-1, Magazine 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2116.ts
 
-#EXTINF:-1,ARG: Argentisima 
+#EXTINF:-1, Argentisima 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/2119.ts
 
 
-
-#EXTINF:-1,ARG: TYC SPORTS
+#EXTINF:-1  , TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1, TYC SPORTS
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/23061.ts
-#EXTINF:-1,ARG: TYC SPORTS INTERN
+#EXTINF:-1, TYC SPORTS INTERN
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167451.ts
-#EXTINF:-1,ARG: TYC SPORTS LOCAL
+#EXTINF:-1, TYC SPORTS LOCAL
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/167452.ts
 
 
