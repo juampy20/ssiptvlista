@@ -145,6 +145,9 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/69570.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/151274.ts
 
 
+#EXTINF:-1 ,LIGUE 1
+http://168.228.194.33:48001/play/a004/index.m3u8
+
 #EXTINF:-1,IL: Disney Channel
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/504957.ts
 #EXTINF:-1,IL: Disney Junior
