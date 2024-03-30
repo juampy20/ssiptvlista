@@ -105,7 +105,8 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417223.ts
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417222.ts
 #EXTINF:-1,ESPN 2 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417221.ts
-
+#EXTINF:-1 , ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1,ESPN 3 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417219.ts
 #EXTINF:-1,ESPN 3 HD 
