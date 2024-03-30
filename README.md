@@ -70,6 +70,12 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9099.ts
 #EXTINF:-1,FOX SPORTS 2 SUR
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9100.ts
 
+#EXTINF:-1 , FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1 , FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
 #EXTINF:-1,FOX SPORTS 2 MEXICO 
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9102.ts
 #EXTINF:-1,FOX SPORTS 2 MEXICO 
@@ -85,6 +91,12 @@ http://totalplay.site:80/omarschedan1940/nffkuFw4hv/9110.ts
 
 #EXTINF:-1,Fox Sports
 http://totalplay.site:80/omarschedan1940/nffkuFw4hv/417240.ts
+
+#EXTINF:-1  , ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1 , ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
 
 
 #EXTINF:-1,ESPN 1 
