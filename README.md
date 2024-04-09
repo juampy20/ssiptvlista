@@ -45,7 +45,7 @@ http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,COMEDY CENTRAL
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
-#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,DIBUJITOS 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,TOONCAST
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,SPACE 
@@ -137,6 +137,12 @@ http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
 
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , RCN
+http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 
 
 
