@@ -21,6 +21,9 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,EL NUEVE (🇦🇷) 
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,EL TRECE (🇦🇷) 
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 8 SAN JUAN (🇦🇷) 
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
@@ -39,6 +42,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,EL DOCE CORDOBA (🇦🇷)
 https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
-
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,ENCUENTRO (🇦🇷)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 
