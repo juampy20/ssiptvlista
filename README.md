@@ -15,6 +15,9 @@ https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,Cronica tv (🇦🇷) 
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,TN (🇦🇷) 
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 7 (TELEFE) (🇦🇷) 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
@@ -53,5 +56,10 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,EL GARAGE TV (🇦🇷)
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,TELESOL (🇦🇷)
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+
+
 
 
