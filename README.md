@@ -147,4 +147,14 @@ http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , DISNEY JR
+http://168.227.22.18:1935/live/mobile-081/playlist.m3u8
+
+
+
+
+
 
