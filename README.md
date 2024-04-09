@@ -18,6 +18,9 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 7 (TELEFE) (🇦🇷) 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,EL NUEVE (🇦🇷) 
+https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
+
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 8 SAN JUAN (🇦🇷) 
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
@@ -33,7 +36,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,DEPORTV (🇦🇷)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,EL DOCE CORDOBA (🇦🇷)
+https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 
 
 
