@@ -132,5 +132,11 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , HISTORY
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , USA
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
 
 
