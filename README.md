@@ -48,5 +48,9 @@ http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,DIBUJITOS (🇦🇷)
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,SPACE (🇦🇷)
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,PARAMOUNT (🇦🇷)
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 
