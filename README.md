@@ -123,5 +123,14 @@ http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , TNT SERIES
 http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , A3S
+http://168.227.22.18:1935/live/mobile-047/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , HISTORY
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+
 
 
