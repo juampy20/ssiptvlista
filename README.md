@@ -144,5 +144,7 @@ http://168.227.22.18:1935/live/mobile-066/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 
 
