@@ -117,5 +117,11 @@ http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , NICK MUSIC
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , UNIVISION
+http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , TNT SERIES
+http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+
 
 
