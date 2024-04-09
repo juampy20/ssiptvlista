@@ -72,7 +72,12 @@ http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , FOX SPORTS
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
-#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , TOONCAST
-http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , PASIONES
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
 
