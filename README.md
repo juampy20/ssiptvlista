@@ -69,5 +69,10 @@ http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,RT
 http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , FOX SPORTS
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , TOONCAST
+http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
 
 
