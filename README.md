@@ -12,12 +12,26 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 26 (🇦🇷) 
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,Cronica tv (🇦🇷) 
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
+
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 7 (TELEFE) (🇦🇷) 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 8 SAN JUAN (🇦🇷) 
 https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,CANAL RURAL (🇦🇷)
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,CATAMARCA TV (🇦🇷)
+https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,MAGAZINE (🇦🇷)
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,DEPORTV (🇦🇷)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 
