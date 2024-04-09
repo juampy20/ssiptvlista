@@ -72,6 +72,29 @@ http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , FOX SPORTS
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , FOX SPORTS MX
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ESPN
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ESPN 2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , FOX DEPORTES C
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , FOX SPORTS 3
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ESPN 3
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , TNT SPORTS CHILE
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 
@@ -80,4 +103,5 @@ http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
 
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , PASIONES
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+
 
