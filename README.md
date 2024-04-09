@@ -93,7 +93,8 @@ http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , TNT SPORTS CHILE
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
 
-
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , ASTRES CINE
+http://168.227.22.18:1935/live/mobile-028/playlist.m3u8
 
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
