@@ -12,3 +12,15 @@ https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 26 (🇦🇷) 
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 7 (TELEFE) (🇦🇷) 
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,C 8 SAN JUAN (🇦🇷) 
+https://ythls.armelin.one/channel/UC5UKMEIoqvNDMSDz2_6Sn9g.m3u8
+
+
+
+
+
+
+
