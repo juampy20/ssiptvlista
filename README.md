@@ -105,4 +105,15 @@ http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , PASIONES
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , WARNER
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , SONY MOVIES
+http://168.227.22.18:1935/live/mobile-034/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" , SONY CHANNEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+
+
 
