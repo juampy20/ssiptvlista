@@ -54,3 +54,8 @@ http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,PARAMOUNT (🇦🇷)
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,TYC SPORTS (🇦🇷)
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1 group-title="EXCLUSIVO 365TV Digital" tvg-logo="-" ,DISCOVERY (🇦🇷)
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
